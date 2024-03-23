@@ -6,7 +6,7 @@
   
 - 🎓 Formado Tecnólogo em <b>Redes de Computadores</b> - Cesufoz
   
-- 🖥️ Atualmente estudando <b>Java</b>
+- 🖥️ Atualmente estudando <b>Java, AWS, Docker</b>
 
  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -15,7 +15,8 @@
  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
  
 | <a href="https://github.com/luizmb13?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizmb13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="luizmb13 github stats"/></a> | <a href="https://github.com/luizmb13?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmb13&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
